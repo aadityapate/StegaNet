@@ -39,20 +39,6 @@ In today's digital communication landscape, protecting sensitive information is 
 - **Cryptography**: Advanced encryption techniques to ensure message confidentiality and integrity.
 - **SAML Integration**: Provides secure user authentication and authorization.
 
-## Installation & Usage
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-repository/steganet.git
-    ```
-2. Follow the installation instructions to set up the necessary dependencies.
-
-3. Run the system:
-    ```bash
-    python main.py
-    ```
-
-4. Upload your carrier file and enter the message to encrypt and embed.
-
 5. Authenticate via SAML to retrieve the hidden message.
 
 ## Future Enhancements
