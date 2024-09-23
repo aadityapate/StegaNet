@@ -26,9 +26,6 @@ In today's digital communication landscape, protecting sensitive information is 
 - **Aditi Bhattacharya**
 - **Utkarsha Undre**
 
-## Faculty Guide
-- **Prof. Pooja Oza**
-
 ## Technologies Used
 - **Steganography**: For embedding encrypted messages into carrier data.
 - **Cryptography**: For secure message encryption and decryption.
