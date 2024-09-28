@@ -1,7 +1,3 @@
-Here is a draft for your GitHub README file based on the project "StegaNET: Secure Communication with Steganography & SAML":
-
----
-
 # StegaNET: Secure Communication with Steganography & SAML
 
 ### Overview
@@ -17,19 +13,19 @@ Here is a draft for your GitHub README file based on the project "StegaNET: Secu
 
 ### Problem Statement
 
-With the rise of sophisticated cyber threats, traditional encryption methods are increasingly vulnerable to attacks. StegaNET addresses this issue by embedding encrypted messages within seemingly innocuous files, thereby enhancing communication security and offering a covert approach to secure digital exchanges【6†source】【7†source】.
+With the rise of sophisticated cyber threats, traditional encryption methods are increasingly vulnerable to attacks. StegaNET addresses this issue by embedding encrypted messages within seemingly innocuous files, thereby enhancing communication security and offering a covert approach to secure digital exchanges.
 
 ### Objectives
 
 1. Implement a secure communication system that integrates advanced cryptography and steganography techniques.
 2. Regulate user access through SAML, allowing entry only to authenticated and authorized users.
-3. Ensure that sensitive messages are protected against unauthorized access and detection【7†source】.
+3. Ensure that sensitive messages are protected against unauthorized access and detection.
 
 ### System Architecture
 
 1. **Message Encryption**: Messages are encrypted using robust algorithms (e.g., AES-256) before being embedded within carrier files.
 2. **Steganographic Embedding**: Advanced steganography techniques are used to embed messages into various file formats (images, audio, video).
-3. **SAML Authentication**: User access is restricted through SAML-based authentication, ensuring only verified users can retrieve the hidden messages【6†source】【7†source】.
+3. **SAML Authentication**: User access is restricted through SAML-based authentication, ensuring only verified users can retrieve the hidden messages.
 
 ### Technologies Used
 
@@ -37,22 +33,6 @@ With the rise of sophisticated cyber threats, traditional encryption methods are
 - **OpenStego**: A steganography library that enables secure message embedding.
 - **PyCryptodome**: A library for implementing AES-256 encryption.
 - **Diffie-Hellman Key Exchange**: An optional secure key exchange mechanism.
-
-### Installation and Setup
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/StegaNET.git
-    ```
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Set up the SAML configuration for user authentication.
-4. Run the application:
-    ```bash
-    python app.py
-    ```
 
 ### Usage
 
@@ -67,14 +47,11 @@ With the rise of sophisticated cyber threats, traditional encryption methods are
 - **Corporate Security**: Ensuring secure internal communications.
 - **Healthcare**: Safeguarding sensitive medical information.
 - **Government**: Protecting classified communications.
-- **Journalism**: Enabling secure, confidential communication for journalists and whistleblowers【7†source】.
+- **Journalism**: Enabling secure, confidential communication for journalists and whistleblowers.
 
 ### Future Work
 
 - Implement additional steganography techniques to enhance message capacity and reduce detectability.
 - Introduce a mobile version for secure communication on-the-go.
-- Explore cloud integration for secure message storage【7†source】.
+- Explore cloud integration for secure message storage.
 
----
-
-This README file provides an overview of your project, along with installation instructions and usage guidelines. Let me know if you'd like any changes or additions!
